@@ -7,3 +7,4 @@ new new
 new karyawan
 
 Perubahan README.md #1
+Perubahan README.md #2
